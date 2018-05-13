@@ -1,22 +1,22 @@
 # Computational_Physics
 Various computational physics problems
 
-Topics covered will be 
+Topics covered will be numbered by:
 
-python programming for physicists.
+2. python programming for physicists.
 
-graphics and visualization.
+3. graphics and visualization.
 
-accuracy and speed.
+4. accuracy and speed.
 
-integrals and derivatives.
+5. integrals and derivatives.
 
-solution of linear and nonlinear equations.
+6. solution of linear and nonlinear equations.
 
-fourier transforms.
+7. fourier transforms.
 
-ordinary differential equations.
+8. ordinary differential equations.
 
-partial differential equations.
+9. partial differential equations.
 
-random processes and monte carlo methods.
+10. random processes and monte carlo methods.
