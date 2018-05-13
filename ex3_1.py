@@ -1,3 +1,5 @@
+# This will plot the first 1000 months after january 1749 and the number of sunspots detected that month. It also plots the running average.
+
 import numpy as np 
 import matplotlib.pyplot as plt
 r = 5
