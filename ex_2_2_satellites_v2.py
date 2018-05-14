@@ -1,6 +1,4 @@
-# A program that gives required altitude for desired period of orbit around earth.
-# Program then tests 4 different periods and takes the difference between a 24 hour orbit and
-# a 23.95 hour sidereal day.
+# A program that gives required altitude for a chosen period and planet.
 
 from math import pi
 from numpy import array
