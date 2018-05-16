@@ -40,11 +40,11 @@ plt.savefig('bessel_5_4.png')
 
 
 
-def I(lmda,r): #Intensity
+def I(lmda,r): 
     k = (pi/lmda)    
     return ((J(1,k*r))/(k*r))**2
 
-wavelength = .5        # microm meters
+wavelength = .5        
 I0 = 1
 points = 50          
 separation = 0.1 
@@ -58,7 +58,7 @@ for i in range(points):
         r = sqrt((x)**2+(y)**2)
 
         if r < 0.000000000001:
-            Intensity[i,j]= 0.5 #this is the lim as r  -> 0, I -> 0.5
+            Intensity[i,j]= 0.5 
         else: 
             Intensity[i,j] = I0*I(wavelength,r)
 
